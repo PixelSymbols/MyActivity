@@ -13,3 +13,4 @@ This is where i will summarize my day
 ## 13.11.2022:
 0) had an idea for YT
 1) created YT channel: breakfast code
+2) wrote a script (text) for video 
