@@ -14,3 +14,10 @@ This is where i will summarize my day
 0) had an idea for YT
 1) created YT channel: breakfast code
 2) wrote a script (text) for video 
+
+## 14.11.2022:
+1) started doing Better File System library
+2) first used windows virtual workspaces, and i liked it
+
+## 15.11.2022:
+1) continue doing library
