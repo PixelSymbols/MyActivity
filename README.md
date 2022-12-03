@@ -19,5 +19,14 @@ This is where i will summarize my day
 1) started doing Better File System library
 2) first used windows virtual workspaces, and i liked it
 
+# 12.11.2022
+got sick
+
 ## 15.11.2022:
 1) continue doing library
+
+# 28.11.2022
+recovered
+
+# 2.12.2022
+got expelled from Institute for 6 debts, where i could have only 4. Also one of which i already made.
